@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gokhankar
 - 👀 I’m interested in mobile application development, flutter and react native... and python.
 - 🌱 I’m currently learning opencv, google ml_kit...
-- 📫 gokhankaracay.netlify.app
+- 📫 gokhankaracay.netlify.app [a link](https://gokhankaracay.netlify.app/)
 
 <!---
 gokhankar/gokhankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
