@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokhankar
-- 👀 I’m interested in mobile application development, flutter and react native... and python.
-- 🌱 I’m currently learning opencv, google ml_kit...
+- 👀 I’m working with flutter for mobile application development.
+- 🌱 I’m interested in opencv, google ml_kit and MCP...
 - 📫 [gokhankaracay.netlify.app](https://gokhankaracay.netlify.app/)
 
 <!---
