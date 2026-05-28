@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokhankar
 - 👀 I’m working with flutter for mobile application development.
-- 🌱 I’m interested in opencv, google ml_kit and MCP...
+- 🌱 I’m interested in opencv, google ml_kit and MCPs...
 - 📫 [gokhankaracay.netlify.app](https://gokhankaracay.netlify.app/)
 
 <!---
